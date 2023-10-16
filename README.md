@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spajki001
 - 👀 I’m interested in programming and programming languages.
-- 🌱 I’m currently learning C, Python and Java.
+- 🌱 I’m currently learning C, Python, HTML, CSS, JavaScript and Java.
 - 💞️ I’m looking to collaborate on my own apps, programs and projects that I try to make.
 - 📫 How to reach me -> spajic.mateo@gmail.com
