@@ -1,4 +1,4 @@
-Hi 👋 My name is Mateo Spajić
+Hi 👋🏼 My name is Mateo Spajić
 =============================
 
 Computer Science student
