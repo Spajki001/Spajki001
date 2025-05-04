@@ -8,7 +8,7 @@ Junior student @ FERIT in Osijek, Croatia. Studying Computer Science and on my w
 
 * 🌍  I'm based in Vinkovci, Croatia
 * ✉️  You can contact me at [spajic.mateo@gmail.com](mailto:spajic.mateo@gmail.com)
-* 🧠  I'm learning Django & JavaScript
+* 🧠  I'm learning Django, JavaScript, Vite, Node.js and Docker
 * ⚡  I am open to learn and become a better coder
 
 ### Skills
