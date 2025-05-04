@@ -113,7 +113,7 @@ Junior student @ FERIT in Osijek, Croatia. Studying Computer Science and on my w
     <a href="http://www.github.com/Spajki001">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Spajki001&show_icons=true&hide=&count_private=true&title_color=1e6eeb&text_color=ffffff&icon_color=1e6eeb&bg_color=0c1017&hide_border=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Spajki001&show_icons=true&hide=&count_private=true&title_color=1e6eeb&text_color=ffffff&icon_color=1e6eeb&bg_color=fefeff&hide_border=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Spajki001&show_icons=true&hide=&count_private=true&title_color=1e6eeb&text_color=1e2228&icon_color=1e6eeb&bg_color=fefeff&hide_border=true&show_icons=true" />
             <img src="https://github-readme-stats.vercel.app/api?username=Spajki001&show_icons=true&hide=&count_private=true&title_color=1e6eeb&text_color=ffffff&icon_color=1e6eeb&bg_color=0c1017&hide_border=true&show_icons=true" alt="Spajki001's GitHub stats"/>
         </picture>
     </a>
