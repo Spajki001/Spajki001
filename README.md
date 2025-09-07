@@ -1,7 +1,7 @@
 Hi 👋🏼 My name is Mateo Spajić
 =============================
 
-Computer Scence student and a web developer
+Computer Science student and a web developer
 -------------------------------------------
 
 Junior student @ FERIT in Osijek, Croatia. Studying Computer Science and on my way to bachelor's degree. I worked and know the basics (or a bit more than that) of every language and framework shown below. I am currently working at a small company <a href="https://fiskalna-blagajna.eu/">Fiskal d.o.o.</a> in Vinkovci as a web developer, technical support and device repairman.
