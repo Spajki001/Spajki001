@@ -4,12 +4,12 @@ Hi 👋🏼 My name is Mateo Spajić
 Computer Science student and a web developer
 -------------------------------------------
 
-Junior student @ FERIT in Osijek, Croatia. Studying Computer Science and on my way to bachelor's degree. I worked and know the basics (or a bit more than that) of every language and framework shown below. I am currently working at a small company <a href="https://fiskalna-blagajna.eu/">Fiskal d.o.o.</a> in Vinkovci as a web developer, technical support and device repairman.
+I'm a **Junior Computer Science student** at **FERIT** in Osijek, Croatia, pursuing my bachelor's degree. I have a working knowledge of the languages and frameworks listed below. I currently work at <a href="https://fiskalna-blagajna.eu/">**Fiskal d.o.o.**</a> in Vinkovci, where I serve as a **web developer, technical support specialist, and device repair technician.**
 
 *   🌍  I'm based in Vinkovci, Croatia
 *   ✉️  You can contact me at [spajic.mateo@gmail.com](mailto:spajic.mateo@gmail.com)
-*   🧠  I'm learning Django, JavaScript, Vite, Node.js and Docker
-*   ⚡  I am open to learn and become a better coder
+*   🧠  I'm currently focused on learning **Django, JavaScript, Vite, Node.js**, and **Docker**
+*   ⚡  I am **eager to learn** and **constantly striving to become a better developer**
 
 ### Skills
 
@@ -58,11 +58,7 @@ Junior student @ FERIT in Osijek, Croatia. Studying Computer Science and on my w
 
 <p align="left">
     <a href="https://discord.com/users/spajki001" target="_blank" rel="noreferrer">
-        <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-        </picture>
     </a>
     <a href="https://www.facebook.com/mateo.spajic2002" target="_blank" rel="noreferrer">
         <picture>
